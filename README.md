@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dnegi3000
-- 👀 I’m interested in Microservices , Java ,J2EE , Spring , JS ,Ecommerce 
-- 🌱 I’m currently learning multiple things 
+- 👀Microservices , Java ,J2EE , Spring , JS ,Ecommerce 
+- 🌱 Interested in multi  
 - 📫 How to reach me  : dnegi3000
